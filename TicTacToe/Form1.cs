@@ -6,9 +6,6 @@ namespace TicTacToe
     {
         private void InitializeComponent()
         {
-            // Placeholder: actual designer generated code copied from Codon25 will be added.
-        }
-
-        // The rest of Form1 code will be added from the original repo.
+            
     }
 }
